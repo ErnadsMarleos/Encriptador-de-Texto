@@ -1,3 +1,3 @@
 <h1>Encriptador-de-Texto</h1>
 
--Estado: Completado.
+-Estado: En mejora.
